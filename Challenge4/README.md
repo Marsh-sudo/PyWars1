@@ -1,14 +1,5 @@
-## Climbing Stairs
-You are climbing a staircase. It takes n steps to reach the top.
+## Find Lonely numbers in the Array
+You are given an integer array and suppose to return all lonely numbers in the array.
 
-Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
-
-# Example:
-Input: n = 2
-Output: 2
-Explanation: There are two ways to climb to the top.
-1. 1 step + 1 step
-2. 2 steps
-
-To run my code,copy and run it here:
-[https://leetcode.com/problems/climbing-stairs/]
+To see if code works copy and run it here:
+[leetcode.com/problems/find-all-lonely-numbers-in-the-array/]
